@@ -20,7 +20,7 @@ title                    : "HeeJeong's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김희정"
-description              : "느려도 꾸준히 나아가기!"
+description              : "느려도 꾸준히 좋은 개발자가 되려 합니다."
 url                      : "https://myhands7.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ facebook:
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# - https://developers.google.com/structured-data/customize/social-profiles자
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김희정"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "느려도 꾸준히 **개발자** 되기!"
+  location         : "경기 부천시"
+  email            : myhands@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
